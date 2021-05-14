@@ -45,9 +45,9 @@
 
 ### Node.js
 
-### JetBrains IDEA
+### JetBrains IDE
 
-### Atom IDEA
+### Atom IDE
 
 ![image](https://user-images.githubusercontent.com/73394656/118291589-c3a66e80-b4a5-11eb-88c7-526dd5e218c5.png)
 
