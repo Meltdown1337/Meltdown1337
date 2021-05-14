@@ -28,9 +28,9 @@ Recently finished :
 
 
 
-Coding with these languages :
+# Coding with these languages :
 
-C++, C#, Assembly, HTML, CSS, JS, Java, Dockerfile, PHP, SQL, VBScript
+### C++, C#, Assembly, HTML, CSS, JS, Java, Dockerfile, PHP, SQL, VBScript
 
 ![image](https://user-images.githubusercontent.com/73394656/118291455-a07bbf00-b4a5-11eb-8a43-e2dcb6136e40.png)
 
@@ -38,7 +38,7 @@ C++, C#, Assembly, HTML, CSS, JS, Java, Dockerfile, PHP, SQL, VBScript
 
 
 
-Mainly using : 
+# Mainly using : 
 
 
 ### Visual Studio Code
@@ -58,25 +58,25 @@ Mainly using :
 
 
 
-``ask.me.about{where.do.i.live}= Canada``
+### ``ask.me.about{where.do.i.live}= Canada``
 
 
 
 
-``ask.me.about{who.am.i}= Coding for not so long and is pretty good``
+### ``ask.me.about{who.am.i}= Coding for not so long and is pretty good``
 
 
 
 
-``ask.me.about{what.do.you.code}= C++, C#, Assembly, HTML, CSS, JS, Java, Dockerfile, PHP, SQL, VBScript and more``
+### ``ask.me.about{what.do.you.code}= C++, C#, Assembly, HTML, CSS, JS, Java, Dockerfile, PHP, SQL, VBScript and more``
 
-Have fun visiting my profile !
+# Have fun visiting my profile !
 
-Join me on :
-
-
-Discord : slayer sznq#4644
+### Join me on :
 
 
-Twitter : @keio_1337
+### Discord : slayer sznq#4644
+
+
+### Twitter : @keio_1337
 
