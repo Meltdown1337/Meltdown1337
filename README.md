@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Contributions :
+# Contributions :
 
 
-![image](https://user-images.githubusercontent.com/73394656/118285879-e7ff4c80-b49f-11eb-9d1a-bf723fa8b04a.png) (2021-05-14)
+![image](https://user-images.githubusercontent.com/73394656/118285879-e7ff4c80-b49f-11eb-9d1a-bf723fa8b04a.png) *(2021-05-14)*
 
-Working on :
+# Working on :
 
 
 
@@ -13,7 +13,7 @@ Working on :
 
 
 
-Recently finished :
+# Recently finished :
 
 
 
@@ -56,8 +56,6 @@ Recently finished :
 
 
 
-
-
 ### ``ask.me.about{where.do.i.live}= Canada``
 
 
@@ -68,7 +66,7 @@ Recently finished :
 
 
 
-### ``ask.me.about{what.do.you.code}= C++, C#, Assembly, HTML, CSS, JS, Java, Dockerfile, PHP, SQL, VBScript and more``
+**``ask.me.about{what.do.you.code}= C++, C#, Assembly, HTML, CSS, JS, Java, Dockerfile, PHP, SQL, VBScript and more``**
 
 # Have fun visiting my profile !
 
