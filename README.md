@@ -56,12 +56,12 @@
 
 
 
-** ``ask.me.about{where.do.i.live}= Canada``**
+**``ask.me.about{where.do.i.live}= Canada``**
 
 
 
 
-** ``ask.me.about{who.am.i}= Coding for not so long and is pretty good``**
+**``ask.me.about{who.am.i}= Coding for not so long and is pretty good``**
 
 
 
