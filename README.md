@@ -59,8 +59,17 @@ Mainly using :
 ![image](https://user-images.githubusercontent.com/73394656/118287495-7fb16a80-b4a1-11eb-8f21-481990711fa8.png)
 
 
+
 ``ask.me.about{where.do.i.live}= Canada``
+
+
+
+
 ``ask.me.about{who.am.i}= Coding for not so long and is pretty good``
+
+
+
+
 ``ask.me.about{what.do.you.code}= C++, C#, Assembly, HTML, CSS, JS, Java, Dockerfile, PHP, SQL, VBScript and more``
 
 Have fun visiting my profile !
@@ -68,10 +77,8 @@ Have fun visiting my profile !
 Join me on :
 
 
-![image](https://user-images.githubusercontent.com/73394656/118289249-23e7e100-b4a3-11eb-8078-ec88b9a68923.png) : slayer sznq#4644
+Discord : slayer sznq#4644
 
 
-
-
-![image](https://user-images.githubusercontent.com/73394656/118289301-3530ed80-b4a3-11eb-862e-cdbc9e83c041.png) : @keio_1337
+Twitter : @keio_1337
 
