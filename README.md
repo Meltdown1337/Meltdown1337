@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Snzq1337/Snzq1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Contributions :
 ![image](https://user-images.githubusercontent.com/73394656/118285879-e7ff4c80-b49f-11eb-9d1a-bf723fa8b04a.png)
 
