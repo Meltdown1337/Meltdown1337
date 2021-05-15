@@ -73,7 +73,7 @@
 ### Join me on :
 
 
-### Discord : slayer sznq#4644
+### Discord : sznq1111#4644
 
 
 ### Twitter : @keio_1337
