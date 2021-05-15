@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 snzq the menace you know it
 
 # Contributions :
 
