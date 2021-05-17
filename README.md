@@ -1,4 +1,4 @@
-### 👋 snzq the menace you know it
+### 👋 melt the menace you know it
 
 # Contributions :
 
@@ -71,9 +71,6 @@
 # Have fun visiting my profile !
 
 ### Join me on :
-
-
-### Discord : sznq1111#4644
 
 
 ### Twitter : @keio_1337
