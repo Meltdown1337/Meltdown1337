@@ -35,7 +35,7 @@
 
 **Here are languages that I "master" :**
 
-``.``
+**``HTML, JS, Dockerfile, Ruby, Perl, C#, Swift, Python, Java, Assembly, CSS, PHP, VBScript and way more !``**
 
 # Week
 
