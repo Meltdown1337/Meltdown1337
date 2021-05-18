@@ -4,9 +4,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meltdown1337&show_icons=true&theme=synthwave)
 
-### Extra Pins
+# Extra Pins
 
-**Recently Finished**
+### **Recently Finished**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=SimpleTrojan)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=Sudoku)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,7 +16,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=GCalcSearch)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=sys_read-sys_mkdir)](https://github.com/anuraghazra/github-readme-stats)
 
-**Working On :**
+### **Working On :**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=scripts)](https://github.com/anuraghazra/github-readme-stats)
 
