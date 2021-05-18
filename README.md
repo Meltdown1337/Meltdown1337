@@ -16,6 +16,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=GCalcSearch)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=sys_read-sys_mkdir)](https://github.com/anuraghazra/github-readme-stats)
 
+**Working On :**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=scripts)](https://github.com/anuraghazra/github-readme-stats)
+
 # Top Languages
 
 ### Languages Usage (Only 10 languages are shown here)
@@ -27,4 +31,25 @@
 
 ### WeekStats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meltdown1337)](https://github.com/anuraghazra/github-readme-stats)
+**WeekStats are currently unnavailable**
+
+# Questions
+
+### Who am I ?
+
+**I am a trainee programmer that has a medium skill in programming. I am working on a script in C# (as you saw) I am interested in Cyber Security.**
+
+### Pronouns
+
+**He/Him**
+
+### Do I need help with something ?
+
+**No, not for now**
+
+### Fun fact
+
+**Im a native Americain that lives in Canada**
+
+# Hope you like visiting my GitHub Profile !
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
