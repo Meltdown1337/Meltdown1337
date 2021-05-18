@@ -2,6 +2,8 @@
 
 ### Here is my profile on GitHub, have fun !
 
+**Please note that I need repositories idea, join me on discord : Meltdwn#4644**
+
 # Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meltdown1337&show_icons=true&theme=synthwave)
