@@ -18,7 +18,7 @@
 
 # Top Languages
 
-### Languages Usage (Based on recently finished repositories)
+### Languages Usage (Only 10 languages are shown here)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meltdown1337&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
