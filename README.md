@@ -33,7 +33,7 @@
 
 ### Languages Skills
 
-**Here are languages that I "master" :
+**Here are languages that I "master" :**
 
 ``.``
 
