@@ -15,3 +15,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=ARTetris)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=GCalcSearch)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=sys_read-sys_mkdir)](https://github.com/anuraghazra/github-readme-stats)
+
+# Top Languages
+
+### Languages Usage
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meltdown1337)](https://github.com/anuraghazra/github-readme-stats)
