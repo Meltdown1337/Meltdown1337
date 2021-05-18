@@ -33,6 +33,10 @@
 
 ### Languages Skills
 
+**Here are languages that I "master" :
+
+``.``
+
 # Week
 
 ### WeekStats
