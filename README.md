@@ -23,4 +23,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meltdown1337&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meltdown1337&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# Week
+
+### WeekStats
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meltdown1337)](https://github.com/anuraghazra/github-readme-stats)
