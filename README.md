@@ -2,7 +2,7 @@
 
 ### Here is my profile on GitHub, have fun !
 
-**Please note that I need repositories idea, join me on discord : Meltdwn#4644**
+**Please note that I need repositories ideas**
 
 # Stats
 
