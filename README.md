@@ -19,6 +19,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=ARTetris)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=GCalcSearch)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=sys_read-sys_mkdir)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=eternal_blue_powershell)](https://github.com/meltdown1337/github-readme-stats)
 
 ### **Working On :**
 
