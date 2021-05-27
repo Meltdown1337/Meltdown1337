@@ -19,8 +19,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=ARTetris)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=GCalcSearch)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=eternal_blue_powershell)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=NXP_PCF8563_Driver](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=NXP-PCF8563-Driver)](https://github.com/anuraghazra/github-readme-stats)
 ### **Working On :**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=scripts)](https://github.com/anuraghazra/github-readme-stats)
