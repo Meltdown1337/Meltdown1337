@@ -1,16 +1,16 @@
 # Hey, Meltdown here and welcome to my GitHub profile ! 👋🏻
 
-### Here is my profile on GitHub, have fun !
+### Here is my profile on GitHub, have fun ! 🎈
 
-**Please note that I need repositories ideas**
+**Please note that I need repositories ideas** 🧧
 
-# Stats
+# Stats 📣
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meltdown1337&show_icons=true&theme=synthwave)
 
-# Extra Pins
+# Extra Pins 📌
 
-### **Recently Finished**
+### **Recently Finished** 🔔
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=SimpleTrojan)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=Sudoku)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,20 +21,21 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=eternal_blue_powershell)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=NXP-PCF8563-Driver)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=rpiForth)](https://github.com/anuraghazra/github-readme-stats)
-### **Working On :**
+
+### **Working On :** 💼
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=CSscript)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=HUGEUserAuthentication)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Top Languages
+# Top Languages 🔊
 
 ### Languages Usage (Only 10 languages are shown here)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meltdown1337&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 
-# Skills
+# Skills 🥋
 
 ### Languages Skills
 
@@ -42,29 +43,29 @@
 
 **``HTML, JS, Dockerfile, Ruby, Perl, C#, Swift, Python, Java, Assembly, CSS, PHP, VBScript and way more !``**
 
-# Week
+# Week 🎉
 
 ### WeekStats
 
 **WeekStats are currently unnavailable**
 
-# Questions
+# Questions ❔
 
 ### Who am I ?
 
 **I am a trainee programmer that has a medium skill in programming. I am working on a script in C# (as you saw) I am interested in Cyber Security.**
 
-### Pronouns
+### Pronouns 🔧
 
 **He/Him**
 
-### Do I need help with something ?
+### Do I need help with something ? 👥
 
 **No, not for now**
 
-### Fun fact
+### Fun fact 📜
 
 **Im a native Americain that lives in Canada**
 
-# Hope you like visiting my GitHub Profile !
+# Hope you like visiting my GitHub Profile ! ❕
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
