@@ -26,6 +26,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=IP-Stresser)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=Mad_Libs_Generator)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=Binary-Search)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=EmailSlicer)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 ### **Working On :** 💼
