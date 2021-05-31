@@ -62,6 +62,14 @@
 
 **WeekStats are currently unnavailable**
 
+# Views 🛰
+
+<p align="center"> 
+  <br>Nombre de vues: <br>
+  <img src="https://profile-counter.glitch.me/Meltdown1337/count.svg" />
+</p>
+
+
 # Questions ❔
 
 ### Who am I ?
