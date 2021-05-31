@@ -2,6 +2,8 @@
 
 ### Here is my profile on GitHub, have fun ! 🎈
 
+![image](https://user-images.githubusercontent.com/73394656/120241819-8ece4180-c231-11eb-84e1-ec4f8dc9b86e.png)
+
 **Please note that I need repositories ideas** 🧧
 
 # Stats 📣
