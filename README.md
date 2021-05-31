@@ -2,7 +2,8 @@
 
 ### Here is my profile on GitHub, have fun ! 🎈
 
-![image](https://user-images.githubusercontent.com/73394656/120241819-8ece4180-c231-11eb-84e1-ec4f8dc9b86e.png)
+![image](https://user-images.githubusercontent.com/73394656/120241919-bde4b300-c231-11eb-96e8-618f9bb5cd67.png)
+
 
 **Please note that I need repositories ideas** 🧧
 
@@ -82,4 +83,4 @@
 # Hope you like visiting my GitHub Profile ! ❕
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![image](https://user-images.githubusercontent.com/73394656/120241889-af969700-c231-11eb-9988-57c25a45da71.png)
+![image](https://user-images.githubusercontent.com/73394656/120241819-8ece4180-c231-11eb-84e1-ec4f8dc9b86e.png)
