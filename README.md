@@ -2,7 +2,7 @@
 
 ### Here is my profile on GitHub, have fun ! 🎈
 
-![Image]https://media.discordapp.net/attachments/843865132974997505/849744882553978890/gif_12.gif
+![Image] https://media.discordapp.net/attachments/843865132974997505/849744882553978890/gif_12.gif
 
 
 **Please note that I need repositories ideas** 🧧
