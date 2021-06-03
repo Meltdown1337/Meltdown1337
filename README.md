@@ -34,6 +34,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=SimpleBackdoor)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=SimpleSyntaxLISP)](https://github.com/anuraghazra/github-readme-stats) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=BuyBitcoinMusk)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=PasswordCracker)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### **Working On :** 💼
