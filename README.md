@@ -43,6 +43,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=CSscript)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=HUGEUserAuthentication)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=Cheat-x86-For-Assembly)](https://github.com/anuraghazra/github-readme-stats)
 
 # Top Languages 🔊
 
