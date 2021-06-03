@@ -66,7 +66,7 @@
 # Views 🛰
 
 <p align="center"> 
-  <br> *Numbers of Views* : <br>
+  <br>  <br>
   <img src="https://profile-counter.glitch.me/Meltdown1337/count.svg" />
 </p>
 
