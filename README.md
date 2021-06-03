@@ -1,4 +1,4 @@
-# Hey, Meltdown here and welcome to my GitHub profile ! 👋🏻
+# Hey, Unshifted (Meltdown) here and welcome to my GitHub profile ! 👋🏻
 
 ### Here is my profile on GitHub, have fun ! 🎈
 
@@ -12,45 +12,45 @@
 
 ### **Recently Finished** 🔔
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=SimpleTrojan)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=Sudoku)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=AudioVisualizer)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=DiscordBotClient)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=ARTetris)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=GCalcSearch)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=eternal_blue_powershell)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=NXP-PCF8563-Driver)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=rpiForth)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=Physics-Simulator)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=Enigma)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=IP-Stresser)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=Mad_Libs_Generator)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=Binary-Search)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=EmailSlicer)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=Malbolge)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=vim-whitespace-trailing)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=PortForwarder)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=ThoseCryptoLetters)](https://github.com/anuraghazra/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=SimpleBackdoor)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=SimpleSyntaxLISP)](https://github.com/anuraghazra/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=BuyBitcoinMusk)](https://github.com/anuraghazra/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=PasswordCracker)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=ScanMyMac)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=XineTD-CTFWar)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=SimpleTrojan)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=Sudoku)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=AudioVisualizer)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=DiscordBotClient)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=ARTetris)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=GCalcSearch)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=eternal_blue_powershell)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=NXP-PCF8563-Driver)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=rpiForth)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=Physics-Simulator)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=Enigma)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=IP-Stresser)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=Mad_Libs_Generator)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=Binary-Search)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=EmailSlicer)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=Malbolge)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=vim-whitespace-trailing)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=PortForwarder)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=ThoseCryptoLetters)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=SimpleBackdoor)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=SimpleSyntaxLISP)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=BuyBitcoinMusk)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=PasswordCracker)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=ScanMyMac)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=XineTD-CTFWar)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### **Working On :** 💼
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=CSscript)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=HUGEUserAuthentication)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meltdown1337&repo=Cheat-x86-For-Assembly)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=CSscript)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=HUGEUserAuthentication)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unshifted1337&repo=Cheat-x86-For-Assembly)](https://github.com/anuraghazra/github-readme-stats)
 
 # Top Languages 🔊
 
 ### Languages Usage (Only 10 languages are shown here)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meltdown1337&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unshifted1337&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 
 # Skills 🥋
 
@@ -70,7 +70,7 @@
 
 <p align="center"> 
   <br>  <br>
-  <img src="https://profile-counter.glitch.me/Meltdown1337/count.svg" />
+  <img src="https://profile-counter.glitch.me/Unshifted1337/count.svg" />
 </p>
 
 
