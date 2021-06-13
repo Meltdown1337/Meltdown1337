@@ -51,7 +51,7 @@
 ### Languages Usage (Only 10 languages are shown here)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unshifted1337&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retq&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 
 # Skills 🥋
 
@@ -71,7 +71,7 @@
 
 <p align="center"> 
   <br>  <br>
-  <img src="https://profile-counter.glitch.me/Unshifted1337/count.svg" />
+  <img src="https://profile-counter.glitch.me/retq/count.svg" />
 </p>
 
 
