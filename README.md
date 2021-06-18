@@ -6,7 +6,7 @@
 
 # Stats 📣
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=retq&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=retq&show_icons=true&theme=gradient)
 
 # Pinned Repositories 📌
 
