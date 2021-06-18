@@ -8,10 +8,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=retq&show_icons=true&theme=synthwave)
 
-# Extra Pins 📌
+# Pinned Repositories 📌
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=SimpleTrojan)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=Sudoku)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=AudioVisualizer)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=DiscordBotClient)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=ARTetris)](https://github.com/anuraghazra/github-readme-stats)
