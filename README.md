@@ -1,96 +1,34 @@
-# Hey, retq (Meltdown) here and welcome to my GitHub profile ! 👋🏻
+<h2> Hey there! I'm Retq. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-### Here is my profile on GitHub, have fun ! 🎈
+<h3> 👨🏻‍💻 About Me </h3>
 
-**Please note that I need repositories ideas** 🧧
+- 🔭 &nbsp; I’m currently learning pretty much everything.
+- 🤔 &nbsp; Exploring new technologies and developing some random stuff and making some hacks.
+- 🎓 &nbsp; Studying Cyber Security and ethical hacking.
+- 💼 &nbsp; Back-end and front-end web developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
+- ✍️ &nbsp; Watching YouTube and learning IT stuff, YouTube, working out and going out a lot.
+- ☕ &nbsp; I belive, listening to music can be the ultimate solution for any stress. 
 
-# Stats 📣
+<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=retq&show_icons=true&theme=synthwave)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=retq&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="retq's Github Stats">
 
-# Pinned Repositories 📌
+</br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=SimpleTrojan)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=AudioVisualizer)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=DiscordBotClient)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=ARTetris)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=GCalcSearch)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=eternal_blue_powershell)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=NXP-PCF8563-Driver)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=rpiForth)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=Physics-Simulator)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=Enigma)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=IP-Stresser)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=Mad_Libs_Generator)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=Binary-Search)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=EmailSlicer)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=Malbolge)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=vim-whitespace-trailing)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=PortForwarder)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=ThoseCryptoLetters)](https://github.com/anuraghazra/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=SimpleBackdoor)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=SimpleSyntaxLISP)](https://github.com/anuraghazra/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=BuyBitcoinMusk)](https://github.com/anuraghazra/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=PasswordCracker)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=ScanMyMac)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=XineTD-CTFWar)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=SpanishMDM)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retq&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 
-### **Working On :** 💼
+<h3> 🤝🏻 Connect with Me </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=CSscript)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=HUGEUserAuthentication)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=Cheat-x86-For-Assembly)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+&nbsp; <a href="https://twitter.com/_retqdev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
+</p>
 
-# Top Languages 🔊
-
-### Languages Usage (Only 10 languages are shown here)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retq&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
-
-# Skills 🥋
-
-### Languages Skills 
-
-**Here are languages that I "master" :**
-
-**``HTML, JS, Dockerfile, Ruby, Perl, C#, Swift, Python, Java, Assembly, CSS, PHP, VBScript and way more !``**
-
-# Week 🎉
-
-### WeekStats
-
-**WeekStats are currently unnavailable**
-
-# Views 🛰
+<h3> 👀 Views </h3>
 
 <p align="center"> 
   <br>  <br>
   <img src="https://profile-counter.glitch.me/retq/count.svg" />
 </p>
-
-
-# Questions ❔
-
-### Who am I ?
-
-**I am a trainee programmer that has a medium skill in programming. I am working on a script in C# (as you saw) I am interested in Cyber Security.**
-
-### Pronouns 🔧
-
-**He/Him**
-
-### Do I need help with something ? 👥
-
-**No, not for now**
-
-### Fun fact 📜
-
-**Im a native Americain that lives in Canada**
-
-# Hope you like visiting my GitHub Profile ! ❕
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-![image](https://user-images.githubusercontent.com/73394656/120241819-8ece4180-c231-11eb-84e1-ec4f8dc9b86e.png)
