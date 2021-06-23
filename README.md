@@ -10,7 +10,7 @@
 - 💼 &nbsp; Back-end and front-end web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
 - ✍️ &nbsp; Watching YouTube and learning IT stuff, YouTube, working out and going out a lot.
-- ☕ &nbsp; I belive, listening to music can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, listening to music can be the ultimate solution for any stress. 
 
 <br>
 
