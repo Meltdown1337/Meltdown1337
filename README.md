@@ -38,6 +38,11 @@
   <img src="https://profile-counter.glitch.me/retq/count.svg"/>
 </p>
 
+<br>
+
+<h3>🎧 Spotify</h3>
+[![Liked Songs](https://img.shields.io/badge/Chill%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://https://open.spotify.com/collection/tracks)
+
 <h3>Thanks for stopping by !</h3>
 
 <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="250">
