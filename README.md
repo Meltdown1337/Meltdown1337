@@ -21,7 +21,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=retq&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
 
-
 </br>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=retq&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
