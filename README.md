@@ -34,7 +34,7 @@
 
 <h3> 👀 Views </h3>
 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
+                <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
 <p align="center"> 
   <br>  <br>
   <img src="https://profile-counter.glitch.me/retq/count.svg"/>
