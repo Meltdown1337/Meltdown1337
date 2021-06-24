@@ -14,6 +14,16 @@
 
 <br>
 
+<h3> 🌌 Mainly Working On </h3>
+
+<table style="width:100%; table-layout:fixed">
+  <tr>
+    <th>CSScripts</th>
+    <th>User Authentication called HUGE</th>
+    <th>HTML, JS & CSS things</th>
+  </tr>
+  <tr>
+    <td>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=retq&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="retq's Github Stats">
 
