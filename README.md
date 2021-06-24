@@ -37,4 +37,4 @@
   <br>  <br>
   <img src="https://profile-counter.glitch.me/retq/count.svg" />
 </p>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
