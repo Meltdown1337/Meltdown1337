@@ -36,7 +36,7 @@
 
 <p align="center"> 
   <br>  <br>
-  <img src="https://profile-counter.glitch.me/retq/count.svg" />
+  <img src="https://profile-counter.glitch.me/retq/count.svg"/>
 </p>
 
 <h3>Thanks for stopping by !</h3>
