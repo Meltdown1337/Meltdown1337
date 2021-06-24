@@ -34,10 +34,6 @@
 <a href="https://github.com/retq/HUGEUserAuthentication">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=HUGEUserAuthentication" />
 </a>
-
-<br>
-<br>
-
 <a href="https://github.com/retq/vc4cl-compiler">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=vc4cl-compiler" />
 </a>
