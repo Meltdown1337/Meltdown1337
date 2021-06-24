@@ -25,16 +25,6 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=retq&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 
-
-<h3>🔧 Mainly Working On</h3>
-
-<a href="https://github.com/retq/CSScript">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=CSScript" />
-
-<br>
-<br>
-  <br>
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
