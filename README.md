@@ -26,8 +26,6 @@
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/retqdev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
-</p> <p align="center">
-&nbsp; <a href="https://tryhackme.com/p/retqq" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/tryhackme.png" width="50" /></a>
 </p>
 
 <h3> 👀 Views </h3>
