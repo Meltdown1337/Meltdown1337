@@ -38,7 +38,6 @@
   <img src="https://profile-counter.glitch.me/retq/count.svg" />
 </p>
 
-<h3>Thanks for stopping by !</h3> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100">
+<h3>Thanks for stopping by !</h3>
 
-
-<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="250">
