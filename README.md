@@ -28,13 +28,13 @@
 
 <h3>🔧 Mainly Working On</h3>
 
-<a href="https://github.com/abhisheknaiidu/A-POP">
+<a href="https://github.com/retq/CSScript">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=CSScript" />
 </a>
-<a href="https://github.com/abhisheknaiidu/A-POP">
+<a href="https://github.com/retq/HUGEUserAuthentication">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=HUGEUserAuthentication" />
 </a>
-<a href="https://github.com/abhisheknaiidu/A-POP">
+<a href="https://github.com/retq/vc4cl-compiler">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=retq&repo=vc4cl-compiler" />
 </a>
 
