@@ -25,11 +25,6 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=retq&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="https://twitter.com/retqdev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="70" /></a>
-</p>
 
 <h3> 👀 Views </h3>
 
